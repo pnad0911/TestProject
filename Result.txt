@@ -1,0 +1,114 @@
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|           Category           |         Subcategory          |         Product Type         | Kid's & Baby Flag  |      Men Flag      |    Mother Flag     |  Night Care Flag   |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|             baby             |             baby             |       baby_bubble_bath       |         Y          |                    |                    |                    |
+|                              |                              |         baby_lotion          |         Y          |                    |                    |                    |
+|                              |                              |           baby_oil           |         Y          |                    |                    |                    |
+|                              |                              |         baby_powder          |         Y          |                    |                    |                    |
+|                              |                              |         baby_shampoo         |         Y          |                    |                    |                    |
+|                              |                              |      baby_soaps_washes       |         Y          |                    |                    |                    |
+|                              |                              |       baby_toothpaste        |         Y          |                    |                    |                    |
+|                              |                              |          baby_wipes          |         Y          |                    |                    |                    |
+|                              |                              |      diaper_rash_creams      |         Y          |                    |                    |                    |
+|                              |           sun_care           |        body_sunscreen        |                    |                    |                    |                    |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|          bath_body           |         bath_shower          |    bath_salts_oils_soaks     |                    |                    |                    |                    |
+|                              |                              |    body_scrubs_exfoliants    |                    |                    |                    |                    |
+|                              |                              |         bubble_baths         |                    |                    |                    |                    |
+|                              |                              |     shower_gel_body_wash     |                    |                    |                    |                    |
+|                              |      body_moisturizers       |     body_lotions_creams      |                    |                    |                    |                    |
+|                              |                              |          body_mists          |                    |                    |                    |                    |
+|                              |                              |          body_oils           |                    |                    |                    |                    |
+|                              |        hand_foot_care        |    foot_creams_treatments    |                    |                    |                    |                    |
+|                              |                              |    hand_creams_treatments    |                    |                    |                    |                    |
+|                              |                              |       hand_sanitizers        |                    |                    |                    |                    |
+|                              |                              |      hand_soaps_washes       |                    |                    |                    |                    |
+|                              |        personal_care         |       balms_ointments        |                    |                    |                    |                    |
+|                              |                              |          bar_soaps           |                    |                    |                    |                    |
+|                              |                              |         body_powders         |                    |                    |                    |                    |
+|                              |                              |   cellulite_stretch_marks    |                    |                    |         Y          |                    |
+|                              |                              |          deodorants          |                    |                    |                    |                    |
+|                              |                              |          fragrance           |                    |                    |                    |                    |
+|                              |                              |     massage_oils_lotions     |                    |                    |                    |                    |
+|                              |                              |            soaps             |                    |                    |                    |                    |
+|                              |                              |            wipes             |                    |                    |                    |                    |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|             hair             |         hair_styling         |        curl_enhancing        |                    |                    |                    |                    |
+|                              |                              |          detanglers          |                    |                    |                    |                    |
+|                              |                              |         gloss_shine          |                    |                    |                    |                    |
+|                              |                              |          hair_spray          |                    |                    |                    |                    |
+|                              |                              |          smoothing           |                    |                    |                    |                    |
+|                              |                              |        volume_texture        |                    |                    |                    |                    |
+|                              |       hair_treatments        |          hair_masks          |                    |                    |                    |                    |
+|                              |                              |       hair_oils_serums       |                    |                    |                    |                    |
+|                              |                              |   hair_thinning_hair_loss    |                    |                    |                    |                    |
+|                              |                              |    leave_in_conditioners     |                    |                    |                    |                    |
+|                              |     shampoo_conditioner      |    cleansing_conditioners    |                    |                    |                    |                    |
+|                              |                              |         conditioners         |                    |                    |                    |                    |
+|                              |                              |         dry_shampoos         |                    |                    |                    |                    |
+|                              |                              |           shampoos           |                    |                    |                    |                    |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|           make_up            |         eye_make_up          |       eye_base_primers       |                    |                    |                    |                    |
+|                              |                              |          eye_liners          |                    |                    |                    |                    |
+|                              |                              |           eyebrows           |                    |                    |                    |                    |
+|                              |                              |          eyeshadows          |                    |                    |                    |                    |
+|                              |                              |           mascaras           |                    |                    |                    |                    |
+|                              |                              |     under_eye_concealers     |                    |                    |                    |                    |
+|                              |         face_make_up         |           blushes            |                    |                    |                    |                    |
+|                              |                              |           bronzers           |                    |                    |                    |                    |
+|                              |                              |       color_correcting       |                    |                    |                    |                    |
+|                              |                              |       face_concealers        |                    |                    |                    |                    |
+|                              |                              |         face_primers         |                    |                    |                    |                    |
+|                              |                              |         foundations          |                    |                    |                    |                    |
+|                              |                              |         highlighters         |                    |                    |                    |                    |
+|                              |                              |    setting_sprays_powders    |                    |                    |                    |                    |
+|                              |         lip_make_up          |          lip_gloss           |                    |                    |                    |                    |
+|                              |                              |          lip_liners          |                    |                    |                    |                    |
+|                              |                              |         lip_plumpers         |                    |                    |                    |                    |
+|                              |                              |          lip_stains          |                    |                    |                    |                    |
+|                              |                              |          lipsticks           |                    |                    |                    |                    |
+|                              |                              |       liquid_lipsticks       |                    |                    |                    |                    |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|         self_tanners         |         self_tanners         |      body_self_tanners       |                    |                    |                    |                    |
+|                              |                              |      face_self_tanners       |                    |                    |                    |                    |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|       shaving_grooming       |          beard_care          |          beard_oils          |                    |         Y          |                    |                    |
+|                              |       shaving_grooming       |         after_shaves         |                    |                    |                    |                    |
+|                              |                              |     shaving_creams_gels      |                    |                    |                    |                    |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|           skincare           |          cleansers           |        cleansing_oils        |                    |                    |                    |                    |
+|                              |                              |       cleansing_wipes        |                    |                    |                    |                    |
+|                              |                              |      exfoliators_scrubs      |                    |                    |                    |                    |
+|                              |                              |         face_washes          |                    |                    |                    |                    |
+|                              |                              |       make_up_removers       |                    |                    |                    |                    |
+|                              |                              |            toners            |                    |                    |                    |                    |
+|                              |           eye_care           |          eye_creams          |                    |                    |                    |                    |
+|                              |                              |           eye_gels           |                    |                    |                    |                    |
+|                              |                              |     eye_make_up_removers     |                    |                    |                    |                    |
+|                              |                              |          eye_masks           |                    |                    |                    |                    |
+|                              |                              |       eye_night_creams       |                    |                    |                    |         Y          |
+|                              |                              |          eye_serums          |                    |                    |                    |                    |
+|                              |                              |       lash_treatments        |                    |                    |                    |                    |
+|                              |           lip_care           |       balms_treatments       |                    |                    |                    |                    |
+|                              |                              |          lip_masks           |                    |                    |                    |                    |
+|                              |         masks_peels          |          face_masks          |                    |                    |                    |                    |
+|                              |                              |         facial_peels         |                    |                    |                    |                    |
+|                              |                              |         sheet_masks          |                    |                    |                    |                    |
+|                              |         moisturizers         |         bb_cc_creams         |                    |                    |                    |                    |
+|                              |                              |    decollete_neck_creams     |                    |                    |                    |                    |
+|                              |                              |          face_oils           |                    |                    |                    |                    |
+|                              |                              |    mists_waters_essences     |                    |                    |                    |                    |
+|                              |                              |         moisturizers         |                    |                    |                    |                    |
+|                              |                              |         night_creams         |                    |                    |                    |         Y          |
+|                              |                              |     tinted_moisturizers      |                    |                    |                    |                    |
+|                              |      treatments_serums       |   blemish_acne_treatments    |                    |                    |                    |                    |
+|                              |                              |     dark_spot_treatments     |                    |                    |                    |                    |
+|                              |                              |         face_serums          |                    |                    |                    |                    |
+|                              |                              |         night_serums         |                    |                    |                    |         Y          |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------
+|           sun_care           |           sun_care           |        after_sun_care        |                    |                    |                    |                    |
+|                              |                              |        body_sunscreen        |                    |                    |                    |                    |
+|                              |                              |        face_sunscreen        |                    |                    |                    |                    |
+|                              |                              |       sport_sunscreen        |                    |                    |                    |                    |
+ ------------------------------+------------------------------+------------------------------+--------------------+--------------------+--------------------+--------------------

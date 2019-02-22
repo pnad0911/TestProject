@@ -1,0 +1,32 @@
+The solution is writen and applied the Python, Mongodb, and pymongo.
+Make sure you install the pymongo before run the final.py
+The result [table] is stored under Result.txt
+The updated JSON file is stored under data.json
+
+-------------------------------------------------------------------------------
+In the final.py, it reads the source JSON file line by line. And make use of 
+mogodb to create a new database and compute the desired result.
+
+The probabilty is set at 0.8, that means if a group of product type has more 
+than 80% of a type either is_baby or is_men or is_mother or is_night, then the 
+flag for that group will be set to True.
+
+The desired aggregate result is computed by the logic:
+1: group the result by {category, subcategory, product_type}, by doing this, 
+it can separate the duplicated element. For example: same product_type can be 
+in multiple subcategory.
+
+2:it will count the number of appearance of each flag [is_baby, ....] and the 
+total. This will be used later on to compute the result's flags in the $project
+section which depends on the probability
+
+3: the result will be sorted by the name of category, subcategory, and 
+product_type -> Make it easier to print the result later on
+
+The .txt and .json file excludes the data that [product_type] is undefined.
+
+More information about the solution can be found under the comments in final.py
+file. The OOP is applied for Reusability and make code more readable.
+
+
+
