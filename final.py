@@ -4,7 +4,6 @@ from bson.json_util import loads
 import pprint
 from bson.son import SON
 
-#------------------ Db Class ----------------------------------------------------------------
 # Handle all operation on database
 
 class Db:
@@ -36,7 +35,6 @@ class Db:
         return self.collection.aggregate(s)
 
 
-#------------------ myPrint Class ----------------------------------------------------------------
 # Handle write the result to file
 
 class myPrint:
